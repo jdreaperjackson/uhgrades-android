@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UH Grades</string>
+    <string name="okay">Okay</string>
+    <string name="network_error">Network error</string>
+    <string name="network_error_details">Unable to connect to server</string>
+    <string name="please_wait">Loading</string>
+    <string name="search_for_results"></string>
+
+    <string-array name="search_types">
+        <item>Course Description</item>
+        <item>Instructor Last Name</item>
+    </string-array>
+</resources>
